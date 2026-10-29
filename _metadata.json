@@ -1,0 +1,70 @@
+{
+  "hash": "b5464b95",
+  "configHash": "ce7668cc",
+  "lockfileHash": "667ffe04",
+  "browserHash": "28a4307f",
+  "optimized": {
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "0ff52854",
+      "needsInterop": true
+    },
+    "react-dom": {
+      "src": "../../react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "303d5fe3",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "83359360",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "6fea379b",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "739af76c",
+      "needsInterop": true
+    },
+    "motion/react": {
+      "src": "../../motion/dist/es/react.mjs",
+      "file": "motion_react.js",
+      "fileHash": "4678c5fb",
+      "needsInterop": false
+    },
+    "clsx": {
+      "src": "../../clsx/dist/clsx.mjs",
+      "file": "clsx.js",
+      "fileHash": "61683099",
+      "needsInterop": false
+    },
+    "tailwind-merge": {
+      "src": "../../tailwind-merge/dist/bundle-mjs.mjs",
+      "file": "tailwind-merge.js",
+      "fileHash": "5f491f4f",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-KV7XM4KR": {
+      "file": "chunk-KV7XM4KR.js"
+    },
+    "chunk-ONFTLZP5": {
+      "file": "chunk-ONFTLZP5.js"
+    },
+    "chunk-BNG2FCX3": {
+      "file": "chunk-BNG2FCX3.js"
+    },
+    "chunk-PX6F3LHL": {
+      "file": "chunk-PX6F3LHL.js"
+    }
+  }
+}
